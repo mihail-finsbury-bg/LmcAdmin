@@ -1,5 +1,5 @@
 {
-    "name": "lm-commons/lmc-admin",
+    "name": "mihail-finsbury-bg/lmc-admin",
     "description": "A generic Admin module for Laminas MVC.",
     "license": "BSD-3-Clause",
     "type": "library",
